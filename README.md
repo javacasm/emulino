@@ -1,6 +1,6 @@
 # Emulino
 
-Descarga del exe desde http://sourceforge.net/projects/sdaaubckp/files/emulino/10.04/emulino/download
+( se puede descargar el exe desde http://sourceforge.net/projects/sdaaubckp/files/emulino/10.04/emulino/download )
 
 ## Ejemplo
 
