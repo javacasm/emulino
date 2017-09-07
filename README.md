@@ -1,6 +1,7 @@
 # Emulino
 
 Emulador de Arduino que ejecuta los ficheros .hex
+Creado por Greg Hewgill ( @ghewgill http://hewgill.com/ )
 
 
 
