@@ -41,5 +41,5 @@ Verificamos y ejecutamos emulino con el hex generado (suele estar en /tmp/arduin
 
 [doc](https://wiki.ubuntu.com/Emulino)
 [Sobre su desarrollo, funcionamiento interno y problemas de compilación](http://ghewgill.livejournal.com/129929.html)
-
+[sobre errores de compilación](http://hewgill.com/journal/entries/507-emulino-arduino-cpu-emulator.html)
 [Listado de emuladores/simuladores de Arduino](https://www.smashingrobotics.com/arduino-simulators-lineup-start-developing-without-real-board/)
