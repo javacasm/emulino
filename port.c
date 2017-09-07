@@ -34,7 +34,9 @@ u8 PIN[3];
 u8 DDR[3];
 u8 PORT[3];
 
-inline int port(u16 addr)
+#define PORT_BASE   0x23
+
+int port(u16 addr)
 {
     return (addr - PORT_BASE) / 3;
 }
